@@ -1,5 +1,5 @@
 <div align="center">
-  <h4>Hi, I'm gabi!</h4>
+  <h3>Hi, I'm gabi!</h3>
   <p>A Software developer focused on backend and curious about frontend.</p>
   <p>A Computer Science student at UFRRJ and Software Development Intern at Ativa Investimentos.</p>
 
