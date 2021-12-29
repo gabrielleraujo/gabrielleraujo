@@ -8,4 +8,6 @@
     I also have some knowledge of JavaScript, HTML and CSS.</p>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielleraujo/)
+  </br>
+  [About me](https://gabrielleraujo.github.io/)
 </div>
