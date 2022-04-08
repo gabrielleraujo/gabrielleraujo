@@ -1,7 +1,8 @@
 <div align="center">
   <h3>Hi, I'm gabi!</h3>
-  <p>A Software developer focused on backend and curious about frontend.</p>
-  <p>A Computer Science student at UFRRJ and Software Development Intern at Ativa Investimentos.</p>
+  <p>I am a Software developer focused on backend and curious about frontend.</p>
+
+  <p>Computer Science student at UFRRJ and Software Developer at Guide Investimentos.</p>
 
   <h4>Stack</h4>
   <p>.Net, C#, AspNet Core, Entity Framework Core, SQL Server, Razor, Bootstrap.
